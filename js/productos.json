@@ -1,0 +1,182 @@
+[
+    {
+        "id": "carne-01",
+        "titulo": "Carne para asar",
+        "imagen": "./img/carne/01.jpg",
+        "categoria": {
+            "nombre": "Carnes",
+            "id": "abrigos"
+        },
+        "precio": 120
+    },
+    {
+        "id": "carne-02",
+        "titulo": "Carne de cerdo",
+        "imagen": "./img/carne/02.jpg",
+        "categoria": {
+            "nombre": "Carnes",
+            "id": "abrigos"
+        },
+        "precio": 80
+    },
+    {
+        "id": "carne-03",
+        "titulo": "Carne de res",
+        "imagen": "./img/carne/03.jpg",
+        "categoria": {
+            "nombre": "Carnes",
+            "id": "abrigos"
+        },
+        "precio": 100
+    },
+    {
+        "id": "carne-04",
+        "titulo": "Carne sin hueso",
+        "imagen": "./img/carne/04.jpg",
+        "categoria": {
+            "nombre": "Carnes",
+            "id": "abrigos"
+        },
+        "precio": 90
+    },
+    {
+        "id": "carne-05",
+        "titulo": "Pollo sin hueso",
+        "imagen": "./img/carne/05.jpg",
+        "categoria": {
+            "nombre": "Carnes",
+            "id": "abrigos"
+        },
+        "precio": 60
+    },
+    {
+        "id": "abarrote-01",
+        "titulo": "Lata de atun",
+        "imagen": "./img/abarrotes/01.jpg",
+        "categoria": {
+            "nombre": "Abarrotes",
+            "id": "camisetas"
+        },
+        "precio": 40
+    },
+    {
+        "id": "abarrote-02",
+        "titulo": "Leche",
+        "imagen": "./img/abarrotes/02.jpg",
+        "categoria": {
+            "nombre": "Abarrotes",
+            "id": "camisetas"
+        },
+        "precio": 25
+    },
+    {
+        "id": "abarrote-03",
+        "titulo": "Aceite",
+        "imagen": "./img/abarrotes/03.jpg",
+        "categoria": {
+            "nombre": "Abarrotes",
+            "id": "camisetas"
+        },
+        "precio": 20
+    },
+    {
+        "id": "abarrote-04",
+        "titulo": "Cereal",
+        "imagen": "./img/abarrotes/04.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 35
+    },
+    {
+        "id": "abarrote-05",
+        "titulo": "Chocomilk",
+        "imagen": "./img/abarrotes/05.jpg",
+        "categoria": {
+            "nombre": "Abarrotes",
+            "id": "camisetas"
+        },
+        "precio": 32
+    },
+    {
+        "id": "abarrote-06",
+        "titulo": "Avena",
+        "imagen": "./img/abarrotes/06.jpg",
+        "categoria": {
+            "nombre": "Abarrotes",
+            "id": "camisetas"
+        },
+        "precio": 12
+    },
+    {
+        "id": "abarrote-07",
+        "titulo": "Cafe",
+        "imagen": "./img/abarrotes/07.jpg",
+        "categoria": {
+            "nombre": "Abarrotes",
+            "id": "camisetas"
+        },
+        "precio": 78
+    },
+    {
+        "id": "abarrote-08",
+        "titulo": "Huevos",
+        "imagen": "./img/abarrotes/08.jpg",
+        "categoria": {
+            "nombre": "Abarrotes",
+            "id": "camisetas"
+        },
+        "precio": 41
+    },
+    {
+        "id": "fruta-01",
+        "titulo": "Manzanas",
+        "imagen": "./img/frutas/01.jpg",
+        "categoria": {
+            "nombre": "Frutas",
+            "id": "pantalones"
+        },
+        "precio": 34
+    },
+    {
+        "id": "fruta-02",
+        "titulo": "Platanos",
+        "imagen": "./img/frutas/02.jpg",
+        "categoria": {
+            "nombre": "Frutas",
+            "id": "pantalones"
+        },
+        "precio": 21
+    },
+    {
+        "id": "fruta-03",
+        "titulo": "Aguacates",
+        "imagen": "./img/frutas/03.jpg",
+        "categoria": {
+            "nombre": "Frutas",
+            "id": "pantalones"
+        },
+        "precio": 80 
+    },
+    {
+        "id": "frutas-04",
+        "titulo": "Tomates",
+        "imagen": "./img/frutas/04.jpg",
+        "categoria": {
+            "nombre": "Frutas",
+            "id": "pantalones"
+        },
+        "precio": 15
+    },
+    {
+        "id": "frutas-05",
+        "titulo": "Sandia",
+        "imagen": "./img/frutas/05.jpg",
+        "categoria": {
+            "nombre": "Frutas",
+            "id": "pantalones"
+        },
+        "precio": 40
+    }
+]
